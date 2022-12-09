@@ -9,11 +9,9 @@ const Hero = () => {
     <Wrapper className="section-center">
       <article className="content">
         <h1>
-          design your <br /> comfort zone{' '}
+          we enjoy <br /> our gadgets
         </h1>
-        <p>
-          when filling your room with quality home furnishings from comfysloth houseware, we provide kitchen set and living room set packages affordable prices
-        </p>
+        <p>when filling your room with quality home furnishings from comfysloth houseware, we provide kitchen set and living room set packages affordable prices</p>
         <Link to="/products" className="btn hero-btn">
           shop now
         </Link>
